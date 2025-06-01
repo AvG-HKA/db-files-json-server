@@ -27,5 +27,25 @@
       "creditScore": 800,
       "status": "approved"
     }
+  ],
+  "riskAssessments": [
+    {
+      "id": 1,
+      "customerId": "1",
+      "riskLevel": "low",
+      "recommendation": "approve"
+    },
+    {
+      "id": 2,
+      "customerId": "2",
+      "riskLevel": "high",
+      "recommendation": "review"
+    },
+    {
+      "id": 3,
+      "customerId": "3",
+      "riskLevel": "medium",
+      "recommendation": "approve"
+    }
   ]
 }
