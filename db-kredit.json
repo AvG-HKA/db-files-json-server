@@ -1,0 +1,31 @@
+{
+  "creditChecks": [
+    {
+      "id": 1,
+      "customerId": "1",
+      "applicationDate": "2025-05-20",
+      "amount": 100000,
+      "currency": "EUR",
+      "creditScore": 720,
+      "status": "approved"
+    },
+    {
+      "id": 2,
+      "customerId": "2",
+      "applicationDate": "2025-05-21",
+      "amount": 250000,
+      "currency": "EUR",
+      "creditScore": 580,
+      "status": "rejected"
+    },
+    {
+      "id": 3,
+      "customerId": "3",
+      "applicationDate": "2025-05-22",
+      "amount": 600000,
+      "currency": "EUR",
+      "creditScore": 800,
+      "status": "approved"
+    }
+  ]
+}
